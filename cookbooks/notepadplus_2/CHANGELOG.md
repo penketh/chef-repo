@@ -1,3 +1,6 @@
+## 1.0.5
+* Update Notepad++ version to 6.9.2
+
 ## 1.0.4:
 * Update Notepad++ version to 6.8.6
 
