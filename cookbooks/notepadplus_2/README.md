@@ -1,7 +1,7 @@
 Description
 ===========
 
-This cookbook installs Notepad++ 6.8.6
+This cookbook installs Notepad++ 6.9.2
 
 Requirements
 ============
