@@ -1,7 +1,7 @@
 {
   "name": "Notepadplus_2",
   "description": "Installs/Configures Notepad++",
-  "long_description": "Description\n===========\n\nThis cookbook installs Notepad++ 6.8.6\n\nRequirements\n============\n\nPlatform\n--------\n\n* Windows Vista\n* Windows 7\n* Windows Server 2008 (R1, R2)\n* Windows 2003 (R1 / R2)\n* Windows XP\n\n\nAttributes\n==========\n\nUsage\n=====\n\nInclude the default recipe on a node's runlist to ensure that Notepad++ is installed\n",
+  "long_description": "Description\n===========\n\nThis cookbook installs Notepad++ 6.9.2\n\nRequirements\n============\n\nPlatform\n--------\n\n* Windows Vista\n* Windows 7\n* Windows Server 2008 (R1, R2)\n* Windows 2003 (R1 / R2)\n* Windows XP\n\n\nAttributes\n==========\n\nUsage\n=====\n\nInclude the default recipe on a node's runlist to ensure that Notepad++ is installed\n",
   "maintainer": "Akshara Technlogies",
   "maintainer_email": "saidulu.alli@gmail.com",
   "license": "All rights reserved",
