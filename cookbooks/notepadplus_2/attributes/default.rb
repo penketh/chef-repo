@@ -18,4 +18,4 @@
 # limitations under the License.
 #
 
-default['NPP']['url'] = "https://notepad-plus-plus.org/repository/6.x/6.8.6/npp.6.8.6.Installer.exe"
+default['NPP']['url'] = "https://notepad-plus-plus.org/repository/6.x/6.9.2/npp.6.9.2.Installer.exe"
